@@ -13,6 +13,28 @@ Este repositório é um Starter Kit para projetos frontend modernos, configurado
 ✅ Eslint & Prettier – Configurados para manter um código limpo e padronizado
 ✅ Componentes base – Estrutura inicial de pastas para organização do projeto
 
+## 🖥️ Como Usar este Starter Kit
+
+### 1️⃣ Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/frontend-starter-kit.git
+cd frontend-starter-kit
+```
+
+### 2️⃣ Instale as dependências
+```bash
+npm install
+# ou
+yarn install
+```
+
+### 3️⃣ Inicie o ambiente de desenvolvimento
+```bash
+npm run dev
+# ou
+yarn dev
+```
+
 ## 🎨 Configuração do Tailwind CSS
 O Tailwind CSS já está configurado neste projeto. Caso precise adicionar mais estilos globais, edite o arquivo index.css ou ajuste a configuração em tailwind.config.js.
 
