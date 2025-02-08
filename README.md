@@ -6,12 +6,12 @@ Este repositório é um Starter Kit para projetos frontend modernos, configurado
 
 ## 📌 Recursos Incluídos
 
-✅ Vite – Build ultrarrápida e ambiente de desenvolvimento otimizado
-✅ React – Biblioteca para construção de interfaces reativas e performáticas
-✅ TypeScript – Tipagem estática para maior segurança e escalabilidade
-✅ Tailwind CSS – Framework de estilização utilitária para desenvolvimento rápido
-✅ Eslint & Prettier – Configurados para manter um código limpo e padronizado
-✅ Componentes base – Estrutura inicial de pastas para organização do projeto
+✅ Vite – Build ultrarrápida e ambiente de desenvolvimento otimizado  
+✅ React – Biblioteca para construção de interfaces reativas e performáticas  
+✅ TypeScript – Tipagem estática para maior segurança e escalabilidade  
+✅ Tailwind CSS – Framework de estilização utilitária para desenvolvimento rápido  
+✅ Eslint & Prettier – Configurados para manter um código limpo e padronizado  
+✅ Componentes base – Estrutura inicial de pastas para organização do projeto  
 
 ## 🖥️ Como Usar este Starter Kit
 
